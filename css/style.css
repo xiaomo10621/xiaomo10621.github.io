@@ -108,7 +108,7 @@ body .align_center{ margin:10px auto; padding: 10px 0; }
 .clear{clear: both;}
 
 /*border-bottom: 3px solid #aaa ;*/
-.header_top_first {width:100% !important;background-color:#444 !important;height:35px; 
+.header_top_first {width:100% !important;background-color:#448CBB !important;height:35px; 
 border-bottom: 2px solid #E0E0E0 ;
 -moz-box-shadow: 0px 1px 0px #bbb; /* Firefox 3.6 and earlier */
 -webkit-box-shadow: 0px 1px 0px #bbb; /* Safari and Chrome */
@@ -2500,6 +2500,7 @@ ul#dropdown{
 .OnD{position:relative;left:-1px;margin-bottom:20px;}
 
 
-.TopTi{position:absolute;right:-40px;top:-55px}
+.TopTi{position:absolute;right:-20px;top:-45px}
+.LogoUI{position:absolute;top:-35px;height:122px; width:223px;}
 
 
