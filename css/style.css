@@ -605,7 +605,7 @@ ul.sf-menu > li {
 }
 
 ul.sf-menu > li span:first-child {
-	font-size: 12px;
+	font-size: 15px;
 }
 
 ul.sf-menu > li.current, ul.sf-menu > li:hover {
@@ -1527,6 +1527,7 @@ box-shadow:         0px 6px 9px rgba(50, 50, 50, 0.75);
 .footer_inner {margin-top:10px;}
 .footer_inner .widget_text { float: left; width: 100%; color:#777777 !important; }
 .footer_inner .foot_title { font-size: 13px; font-weight: 600;}
+.footer_inner .foot_company_name { font-size: 15px; font-weight: 600; margin-top:10px;}
 .footer_inner .widget_text p{font-size:12px; color:#f1f1f1 !important;}
 .footer_inner .widget_text a {text-decoration:none;color:#2d77d2;}
 .footer_inner .widget_text a:hover {color:#595959;}
