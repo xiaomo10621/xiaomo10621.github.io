@@ -1585,7 +1585,7 @@ box-shadow:         0px 6px 9px rgba(50, 50, 50, 0.75);
 .power_bt {color:#f1f1f1;  }
 .power_bt a {text-decoration: none;}
 .power_bt a:hover {color:#ff9600 !important;}
-.subfooter {color: #494949; font-size: 11px; line-height: 50px;}
+.subfooter {color: #494949; font-size: 11px; line-height: 50px; text-align:center;}
 .subfooter a, .subfooter a:visited { color: #f1f1f1; }
 .subfooter .footer_nav { text-align: right; float: right;color:#f1f1f1 !important; }
 .subfooter .footer_nav a {text-decoration:none !important;}
